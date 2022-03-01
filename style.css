@@ -1,16 +1,13 @@
-.container-fluid {
-  margin: 0;
-  padding: 0;
-}
+
 
 .navbar {
   border-radius: 0px;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(20, 19, 19, 0.8);
 }
 
 .navbar-brand {
   font-size: 35px;
-  color: white;
+  color: rgb(223, 98, 98);
   padding-left: 25px;
 }
 
@@ -18,10 +15,7 @@
   color: white;
 }
 
-.nav {
-  margin: 0;
-  padding: 0;
-}
+
 
 .navbar-nav {
   font-size: 25px;
@@ -30,14 +24,9 @@
   padding: 0;
 }
 
-.navbar-toggle {
-  border: 2px solid white;
-  margin-right: 25px;
-}
 
-.icon-bar {
-  background-color: white;
-}
+
+
 
 .main-title {
   margin-bottom: 15px;
@@ -48,10 +37,10 @@
   font-weight: bold;
 }
 
-li {
+/* li {
   box-sizing: border-box;
   width: 100%;
-}
+} */
 
 .menu-item {
   padding: 0;
@@ -88,5 +77,4 @@ li {
   font-weight: bold;
 }
 
-#top {
-}
+
